@@ -47,6 +47,10 @@ ul li.item-menu{
     transition: .2s;
 }
 
+ul li.ativo{
+    background-color: #10b61d;
+}
+
 ul li.item-menu:hover{
     background: #10b61d
 }
