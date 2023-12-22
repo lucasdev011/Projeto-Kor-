@@ -23,7 +23,7 @@ nav.menu-lateral{
     transition: .2s;
 }
 
-nav.menu-lateral:hover{
+nav.menu-lateral.expandir{
     width: 300px
 }
 
